@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+local.properties
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Version control
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
