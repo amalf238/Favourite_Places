@@ -3,11 +3,11 @@
 Favourite Places is an Android app written in Kotlin that helps you collect memories tied to locations. Capture the spots you love by saving photos, notes, and their position on the map so that you can revisit them later.
 
 ## Features
-- 📍 **Location bookmarking** – Save places with a title, description, and the date you visited.
-- 🗺️ **Map search & current location** – Pick a place using the Google Places autocomplete widget or grab your current GPS coordinates.
-- 📸 **Photo attachments** – Add images from the gallery or capture new photos with the camera.
-- ✏️ **Edit & delete** – Update previously saved places or remove entries with a swipe gesture.
-- 🗂️ **Local storage** – All data is stored locally using SQLite so your list is available offline.
+- **Location bookmarking** – Save places with a title, description, and the date you visited.
+- **Map search & current location** – Pick a place using the Google Places autocomplete widget or grab your current GPS coordinates.
+- **Photo attachments** – Add images from the gallery or capture new photos with the camera.
+- **Edit & delete** – Update previously saved places or remove entries with a swipe gesture.
+- **Local storage** – All data is stored locally using SQLite so your list is available offline.
 
 ## Getting started
 
